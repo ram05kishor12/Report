@@ -1,5 +1,4 @@
-#WProgress Report: ESociety Financial Management Application#
-
+WProgress Report: ESociety Financial Management Application
 
 Work done:
 
@@ -26,8 +25,6 @@ Work done:
 
 8. Activity Tracking:
    - Successfully captured and tracked all activities, both cost-related and non-cost related, within the system for comprehensive record-keeping.
-
-
 
 9. Monthly Payment Reports:
    - Implemented a robust reporting system to generate monthly payment reports, facilitating informed decision-making regarding society expenditures.
