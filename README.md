@@ -1,6 +1,6 @@
-WProgress Report: ESociety Financial Management Application
+# wProgress Report: eSociety Financial Management Application
 
-Work done:
+# Work done:
 
 1. User Authentication:
    - Implemented a secure user login system using username/password-based credentials to ensure access control.
