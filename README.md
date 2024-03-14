@@ -36,6 +36,8 @@ Work done:
     - Developed functionalities to generate various additional reports, including inward payments, frequent late payment families, yearly spendings, and year-over-year spending increases for up to the last six years.
 
 UML DIAGRAM:
+
+
 ![image](https://github.com/ram05kishor12/Report/assets/96153571/83dfaa7b-05d6-4b2b-a744-b01160748996)
 
  
